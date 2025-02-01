@@ -19,5 +19,5 @@ We have made use of models like Linear Regression, Random Forest Regressor, Grad
 We have used gridsearch cv for hyperparameter tunning and choosing the best model
 Result: 
 Gradient Boosting Model is the champion model which has less RMSE as compared to other models.
-Hackathon Rank: Gradient Boosting Model scored 1154.65 RMSE value and the Rank on LeaderBoard is 2000
+Gradient Boosting Model scored 1154.65 RMSE value 
 
